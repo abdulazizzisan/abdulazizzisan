@@ -25,7 +25,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/E--MAIL-%23444.svg?style=for-the-badge&logo=mailboxdotorg&logoColor=white)](mailto:hello@abdulazizzisan.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/abdulazizzisan) [![Telegram](https://img.shields.io/badge/-TELEGRAM-%232B90D9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abdulazizzisan) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/abdulazizzisan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mdabdulazizzisan) 
+[![E-mail](https://img.shields.io/badge/E--MAIL-%23444.svg?style=for-the-badge&logo=mailboxdotorg&logoColor=white)](mailto:hello@abdulazizzisan.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/abdulazizzisan) [![Telegram](https://img.shields.io/badge/-TELEGRAM-%232B90D9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abdulazizzisan) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/abdulazizzisan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mdabdulazizzisan) 
 <!--- [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@mdabdulazizzisan)  
 --->
 ## 💻 Tech Stack:

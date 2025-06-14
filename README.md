@@ -1,6 +1,6 @@
 <h1 align="left">𓇢𓆸 Zisan</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=false&vCenter=false&random=false&width=435&lines=Android+Developer;Open+to+job+opportunities;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=false&vCenter=false&random=false&width=435&lines=Android+Developer;Java+Spring+Boot+Developer;Open+to+job+opportunities;" alt="Profiel Highlights" /></a>
 
 <!-- 
 <div align="center">
@@ -14,19 +14,20 @@
 </div>
  -->
  ## 👨🏾‍💻 Project Highlights:
- ### 🏥 [MediConnect Patient](https://github.com/mdabdulazizzisan/MediConnect)<br>
-### 💸 [Crypto Tracker App](https://github.com/mdabdulazizzisan/Crypto-Tracker)<br>
-### 🍃 [Medicinal Leaf Classification Model Deployment: Android](https://github.com/mdabdulazizzisan/Leaf-Classification-ML-Model-Android-Deployment)<br>
+ ### 🏥 [MediConnect Patient](https://github.com/abdulazizzisan/MediConnect)<br>
+### 💸 [Crypto Tracker App](https://github.com/abdulazizzisan/Crypto-Tracker)<br>
+### 🍃 [Medicinal Leaf Classification Model Deployment: Android](https://github.com/abdulazizzisan/Leaf-Classification-ML-Model-Android-Deployment)<br>
 
 ## 💫 Current Status:
-🔭 Working on [MediConnect](https://github.com/mdabdulazizzisan/MediConnect)<br>
+🔭 Working on [MediConnect](https://github.com/abdulazizzisan/MediConnect)<br>
 🤝 looking for Internships & Remote Jobs<br>
 🌱 Learning Jetpack Compose & Android Architecture principles (eg, DI, Clean code, MVVM, etc)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdabdulazizzisan) [![Telegram](https://img.shields.io/badge/-TELEGRAM-%232B90D9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mdabdulazizzisan) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/abdulazizzisan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mdabdulazizzisan) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@mdabdulazizzisan)  
-
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/abdulazizzisan) [![Telegram](https://img.shields.io/badge/-TELEGRAM-%232B90D9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abdulazizzisan) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/abdulazizzisan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mdabdulazizzisan) 
+<!--- [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@mdabdulazizzisan)  
+--->
 ## 💻 Tech Stack:
 ![Android](https://img.shields.io/badge/Android%20Development-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%23c918e1.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
@@ -63,8 +64,8 @@
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=mdabdulazizzisan&theme=highcontrast)](https://git.io/streak-stats) -->
 <div align="center">
 <p align="center">
-<img src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=mdabdulazizzisan&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Streak Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulazizzisan&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41%" alt="Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdabdulazizzisan&theme=react-dark&hide_border=true&area=true" width="90%">
+<img src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=abdulazizzisan&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizzisan&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41%" alt="Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulazizzisan&theme=react-dark&hide_border=true&area=true" width="90%">
 </p>
 </div>

@@ -1,27 +1,17 @@
 <h1 align="left">𓇢𓆸 Zisan</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=false&vCenter=false&random=false&width=435&lines=Android+Developer;Java+Spring+Boot+Developer;Open+to+job+opportunities;" alt="Profiel Highlights" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=false&vCenter=false&random=false&width=435&lines=Java+Spring+Boot+Developer;React+Next.js+Developer;Ex+Android+Developer;Open+to+job+opportunities;" alt="Profile Highlights" /></a>
 
-<!-- 
-<div align="center">
-<h2>🐍 My Contributions 🐍</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdabdulazizzisan/mdabdulazizzisan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdabdulazizzisan/mdabdulazizzisan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdabdulazizzisan/mdabdulazizzisan/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
-</div>
- -->
  ## 👨🏾‍💻 Project Highlights:
- ### 🏥 [MediConnect Patient](https://github.com/abdulazizzisan/MediConnect)<br>
+ ### 🏪 [E-commerce Backend with Spring Boot](https://github.com/abdulazizzisan/Ecom-Backend-Spring)<br>
+ ### ✅ [Todo with Redux Toolkit](https://github.com/abdulazizzisan/rtk-todo)<br>
 ### 💸 [Crypto Tracker App](https://github.com/abdulazizzisan/Crypto-Tracker)<br>
 ### 🍃 [Medicinal Leaf Classification Model Deployment: Android](https://github.com/abdulazizzisan/Leaf-Classification-ML-Model-Android-Deployment)<br>
 
 ## 💫 Current Status:
-🔭 Working on [MediConnect](https://github.com/abdulazizzisan/MediConnect)<br>
-🤝 looking for Internships & Remote Jobs<br>
-🌱 Learning Jetpack Compose & Android Architecture principles (eg, DI, Clean code, MVVM, etc)
+<!--- 🔭 Working on [MediConnect](https://github.com/abdulazizzisan/MediConnect)<br> --->
+🤝 Open to Internships & Remote Jobs<br>
+🌱 Currently Honing Next.js
 
 
 ## 🌐 Socials:

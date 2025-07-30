@@ -8,7 +8,7 @@
 ### 💸 [Crypto Tracker App](https://github.com/abdulazizzisan/Crypto-Tracker)<br>
 ### 🍃 [Medicinal Leaf Classification Model Deployment: Android](https://github.com/abdulazizzisan/Leaf-Classification-ML-Model-Android-Deployment)<br>
 
-## 💫 Current Status:
+<!-- ## 💫 Current Status: -->
 <!--- 🔭 Working on [MediConnect](https://github.com/abdulazizzisan/MediConnect)<br> --->
 🤝 Open to Internships & Remote Jobs<br>
 🌱 Currently Honing Next.js

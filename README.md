@@ -1,18 +1,13 @@
 <h1 align="left">𓇢𓆸 Zisan</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=false&vCenter=false&random=false&width=435&lines=Java+Spring+Boot+Developer;React+Next.js+Developer;Ex+Android+Developer;Open+to+job+opportunities;" alt="Profile Highlights" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=false&vCenter=false&random=false&width=435&lines=Java+Spring+Boot+Developer;React+Next.js+Developer;Open+to+job+opportunities;" alt="Profile Highlights" /></a>
 
  ## 👨🏾‍💻 Project Highlights:
- ### 🏪 [E-commerce Backend with Spring Boot](https://github.com/abdulazizzisan/Ecom-Backend-Spring)<br>
- ### ✅ [Todo with Redux Toolkit](https://github.com/abdulazizzisan/rtk-todo)<br>
-### 💸 [Crypto Tracker App](https://github.com/abdulazizzisan/Crypto-Tracker)<br>
-### 🍃 [Medicinal Leaf Classification Model Deployment: Android](https://github.com/abdulazizzisan/Leaf-Classification-ML-Model-Android-Deployment)<br>
+ ### 🎒 AssesAI - Intelligent Content Generation and Career Assistant Platform <br>
+ ### 🍱 [Khaddo - A food ordering service system](https://github.com/abdulazizzisan/Khaddo-Backend)<br>
 
 <!-- ## 💫 Current Status: -->
 <!--- 🔭 Working on [MediConnect](https://github.com/abdulazizzisan/MediConnect)<br> --->
-🤝 Open to Internships & Remote Jobs<br>
-🌱 Currently Honing Next.js
-
 
 ## 🌐 Socials:
 [![E-mail](https://img.shields.io/badge/E--MAIL-%23444.svg?style=for-the-badge&logo=mailboxdotorg&logoColor=white)](mailto:hello@abdulazizzisan.com "hello@abdulazizzisan.com") [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/abdulazizzisan "linkedin.com/in/abdulazizzisan") [![Telegram](https://img.shields.io/badge/-TELEGRAM-%232B90D9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abdulazizzisan "t.me/abdulazizzisan") [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/abdulazizzisan "x.com/abdulazizzisan") [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mdabdulazizzisan "facebook.com/mdabdulazizzisan") 

@@ -43,7 +43,7 @@
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600.svg?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge\&logo=docker\&logoColor=white)
 
-### Data Persistance
+### Database & Cloud
 ![SQL Server](https://img.shields.io/badge/sql_server-CC2927.svg?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)

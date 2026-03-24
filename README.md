@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=false&vCenter=false&random=false&width=435&lines=Java+Spring+Boot+Developer;React+Next.js+Developer;Open+to+job+opportunities;" alt="Profile Highlights" /></a>
 
- ## 👨🏾‍💻 Project Highlights:
+ ## 👨🏾‍💻 Highlights:
  ### 🎒 AssesAI - Intelligent Content Generation and Career Assistant Platform <br>
  ### 🍱 [Khaddo - A food ordering service system](https://github.com/abdulazizzisan/Khaddo-Backend)<br>
 

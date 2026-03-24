@@ -9,24 +9,20 @@
 <!-- ## 💫 Current Status: -->
 <!--- 🔭 Working on [MediConnect](https://github.com/abdulazizzisan/MediConnect)<br> --->
 
-## 🌐 Socials:
+## 🌐 Connect:
 [![E-mail](https://img.shields.io/badge/E--MAIL-%23444.svg?style=for-the-badge&logo=mailboxdotorg&logoColor=white)](mailto:hello@zisan.dev "hello@zisan.dev") [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://zisan.dev/linkedin "zisan.dev/linkedin") [![Telegram](https://img.shields.io/badge/-TELEGRAM-%232B90D9?style=for-the-badge&logo=telegram&logoColor=white)](https://zisan.dev/telegram "zisan.dev/telegram")  [![Whatsapp](https://img.shields.io/badge/Whatsapp-%25D366.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://zisan.dev/whatsapp "zisan.dev/whatsapp") [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://zisan.dev/x "zisan.dev/x") [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://zisan.dev/facebook "zisan.dev/facebook")
 <!--- [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@mdabdulazizzisan)  
 --->
-## 💻 Tech Stack:
-![Android](https://img.shields.io/badge/Android%20Development-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%23c918e1.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-%f4aa41?style=for-the-badge&logo=bruno&logoColor=white)
+## 🔣 Languages
+![Java](https://img.shields.io/badge/java-007396.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-003B57.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-000000.svg?style=for-the-badge\&logo=rust\&logoColor=white)
 
-## Android Libraries
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white&textColor=white)
-![Room Database](https://img.shields.io/badge/Room%20Database-%23191a19.svg?style=for-the-badge&logo=apache&logoColor=white&textColor=white)
-![Ktor Client](https://img.shields.io/badge/Ktor%20Client-%23744fbf.svg?style=for-the-badge&logo=internetcomputer&logoColor=white&textColor=white)
+
 
 <!--
 ### 🔝 Top Contributed Repo
